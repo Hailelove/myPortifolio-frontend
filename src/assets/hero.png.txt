@@ -1,0 +1,1 @@
+Placeholder: vite build expects ./assets/hero.png in src/App.jsx. Replace hero.png with an actual PNG.
