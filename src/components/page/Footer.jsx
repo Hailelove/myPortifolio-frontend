@@ -18,7 +18,7 @@ export default function Footer() {
             <FaGithub className="h-5 w-5" />
           </a>
           <a
-            href="https://www.linkedin.com/in/deme-best-51840a242/"
+            href="https://www.linkedin.com/in/demeke-molla-51840a242/"
             aria-label="LinkedIn"
             className="hover:text-foreground"
           >

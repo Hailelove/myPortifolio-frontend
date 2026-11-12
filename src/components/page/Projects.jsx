@@ -111,6 +111,18 @@ const PROJECTS = [
   },
 
   {
+    name: "Grade 9 - 12 Question Bank System",
+    desc: "A web-based platform for managing and delivering a comprehensive question bank for grades 9 to 12, including question categorization, difficulty levels, and exam generation.",
+    tech: ["Asp Net", "React", "TypeScript", "Tailwind CSS"],
+    status: "In progress",
+    images: [
+      "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?auto=format&fit=crop&q=80",
+    ],
+    githubUrl: "#",
+    liveUrl: "#",
+  },
+
+  {
     name: "E-Commerce Platform",
     desc: "Modern shopping experience with Stripe payments, cart, and admin dashboard.",
     tech: ["Next.js", "Node.js", "PostgreSQL"],
@@ -124,17 +136,30 @@ const PROJECTS = [
   },
 
   {
-    name: "Transcript & Original Document Acquisition System",
-    desc: "A secure web-based platform that allows graduates to request, track, and receive official transcripts and original academic documents online from anywhere. It streamlines document requests, verification, approval workflows, and digital delivery between graduates and university administration.",
+    name: "Online Learning Platform",
+    desc: "A comprehensive online learning platform with course management, video streaming, quizzes, and progress tracking.",
     tech: ["React", "Express", "MongoDB"],
     status: "In progress",
     images: [
-      "https://images.unsplash.com/photo-1523240795612-9a054b0db644?auto=format&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1562774053-701939374585?auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1581091012184-7f0b1c8e5f3d?auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1581091012184-7f0b1c8e5f3d?auto=format&fit=crop&q=80",
     ],
-    githubUrl: "https://github.com/Hailelove/original-tempo",
+    githubUrl: "#",
     liveUrl: "#",
   },
+
+  // {
+  //   name: "Transcript & Original Document Acquisition System",
+  //   desc: "A secure web-based platform that allows graduates to request, track, and receive official transcripts and original academic documents online from anywhere. It streamlines document requests, verification, approval workflows, and digital delivery between graduates and university administration.",
+  //   tech: ["React", "Express", "MongoDB"],
+  //   status: "In progress",
+  //   images: [
+  //     "https://images.unsplash.com/photo-1523240795612-9a054b0db644?auto=format&fit=crop&q=80",
+  //     "https://images.unsplash.com/photo-1562774053-701939374585?auto=format&fit=crop&q=80",
+  //   ],
+  //   githubUrl: "https://github.com/Hailelove/original-tempo",
+  //   liveUrl: "#",
+  // },
 ];
 
 // Reusable Interactive Card Component

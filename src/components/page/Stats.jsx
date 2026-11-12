@@ -4,7 +4,7 @@ const STATS = [
   { label: "Years Experience", value: 2 },
   { label: "Projects Completed", value: 5 },
   { label: "Happy Clients", value: 10 },
-  { label: "Technologies", value: 5 },
+  { label: "Technologies", value: 6 },
 ];
 
 function Counter({ value }) {

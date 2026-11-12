@@ -25,7 +25,7 @@ export default function Hero() {
           </h1>
 
           <p className="text-xl md:text-2xl text-muted-foreground mb-6 font-medium max-w-xl mx-auto md:mx-0">
-            Full-Stack Developer · Software Engineer · UI/UX Enthusiast
+            Full-Stack Developer - Lecturer · UI/UX Enthusiast
           </p>
 
           {/* Action Buttons */}
